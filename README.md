@@ -32,7 +32,7 @@ This project is a minimal Express-based blog API designed to perform CRUD (Creat
 ├── package.json # Project metadata & dependencies<br>
 └── package-lock.json # Lock file for exact dependency versions<br>
 <br>
----
+<hr>
 
 ## 🛠 Installation Guide
 
